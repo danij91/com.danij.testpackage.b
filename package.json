@@ -1,0 +1,9 @@
+{
+  "name": "com.danij.testpackage.b",
+  "version": "0.1.0",
+  "displayName": "Danijs custom package B",
+  "unity": "2021.3",
+  "author": {
+    "name": "danij91"
+  }
+}
