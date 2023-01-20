@@ -1,3 +1,14 @@
 {
-	"name": "com.danij.testpackage.b"
+    "name": "com.danij.testpackage.b",
+    "rootNamespace": "TestPackageB",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
